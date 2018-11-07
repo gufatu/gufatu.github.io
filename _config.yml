@@ -20,8 +20,8 @@ title                    : "古法兔"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "http://gufatu.com"
+baseurl                  : "/"
 repository               : "gufatu/gufatu.github.io"
 teaser                   : "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -59,7 +59,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
