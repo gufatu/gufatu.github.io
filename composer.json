@@ -1,13 +1,13 @@
 {
-  "name": "geekghc.github.io",
-  "description": "jellybean blog",
+  "name": "gufatu.github.io",
+  "description": "GUFATU blog",
   "main": "",
   "license": "MIT",
   "keywords": [
-    "jellybean",
+    "gufatu",
     "blog"
   ],
-  "homepage": "https://github.com/geekghc/geekghc.github.io",
+  "homepage": "https://github.com/gufatu/gufatu.github.io",
   "moduleType": [],
   "ignore": [
     "**/.*",
